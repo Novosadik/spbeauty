@@ -1,0 +1,19 @@
+.main_container {
+    border: 1px solid rgba(100, 116, 139, 0.12);
+    border-radius: 8px;
+    padding: 24px;
+    margin-left: 96px;
+    margin-right: 105px;
+    width: 453px;
+    height: 420px;
+}
+
+.text_color{
+    color: #64748B;
+}
+
+.container_input{
+    width: 405px;
+    height: 60px;
+    gap: 12px;
+}

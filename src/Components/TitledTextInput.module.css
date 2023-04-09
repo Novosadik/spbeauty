@@ -1,0 +1,10 @@
+.container_input{
+    width: 447px;
+    height: 34px;
+    margin-bottom:16px;
+    gap: 8px;
+}
+
+.text_color{
+    color: #64748B;
+}
